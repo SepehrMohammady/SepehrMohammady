@@ -40,7 +40,7 @@ I'm currently a **Tiny Machine Learning Research Intern** at the University of G
 ### 📫 How to Reach Me
 
 *   **LinkedIn:** [linkedin.com/in/SepehrMohammady](https://linkedin.com/in/SepehrMohammady)
-*   **Website:** [www.SepehrMohammady.ir](https://www.sepehrmohammady.ir/)
+*   **Website:** [www.SepehrMohammady.ir](https://www.sepehrmohammady.ir/#contact)
 
 ---
 
