@@ -25,6 +25,7 @@ I'm currently a **Tiny Machine Learning Research Intern** at the University of G
 *   **Optimization:** Z3 SMT Solver, Project Management Algorithms (CPM, PRA)
 *   **Tools & Platforms:** GitHub, Jupyter Notebooks, PowerShell
 *   **Other Interests:** IT Strategy, Information Architecture, Photography, Content Creation
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrMohammady&layout=compact&theme=dark&hide_border=true&card_width=350" alt="Top Langs"/>
 
 ---
 
