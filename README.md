@@ -1,7 +1,7 @@
 # Hi there, I'm Sepehr Mohammady 👋
 
-<a href="https://www.sepehrmohammady.ir/" target="_blank"><img src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a> 
-<a href="https://linkedin.com/in/SepehrMohammady" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.sepehrmohammady.ir/" target="_blank"><img src="https://img.shields.io/badge/Website-0077B5?style=social&logo=linkedin" alt="Website"></a> 
+<a href="https://linkedin.com/in/SepehrMohammady" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 I'm an IT Specialist and a passionate Master's student pursuing **Engineering Technology for Strategy (and Security)** at the University of Genoa. My focus lies at the intersection of technology, strategy, and efficient computation, with a keen interest in Machine Learning, Simulation, and Optimization.
 
