@@ -11,7 +11,7 @@ I'm currently a **Tiny Machine Learning Research Intern** at the University of G
 
 ### 🚀 My Pinned Projects
 
-*   🧠 **[NAS-BNN-CIFAR10-Exploration](https://github.com/SepehrMohammady/NAS-BNN-CIFAR10-Exploration)**: Adapting and exploring Neural Architecture Search for Binary Neural Networks on the CIFAR-10 dataset.
+*   🧠 **[NAS-BNN Multi-Dataset Pipeline](https://github.com/SepehrMohammady/Efficient-NAS-BNN-Pipeline)**: Neural Architecture Search for Binary Neural Networks (NAS-BNN) with multi-dataset support.
 *   🚢 **[NetLogoPortLogisticsSimulation](https://github.com/SepehrMohammady/NetLogoPortLogisticsSimulation)**: Agent-based model in NetLogo simulating strategic disruptions in port logistics for offshore wind energy.
 *   😌 **[DreamBuddy](https://github.com/SepehrMohammady/DreamBuddy)**: A Unity-based relaxation simulator prototype designed to help users de-stress in personalized virtual environments.
 
