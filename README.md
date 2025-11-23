@@ -1,42 +1,40 @@
-# Hi there, I'm Sepehr Mohammady 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:FF6600&height=200&section=header&text=Sepehr%20Mohammady&fontSize=40&fontColor=ffffff&font=Raleway" alt="banner"/>
+</p>
 
-<a href="https://www.sepehrmohammady.ir/" target="_blank"><img src="https://img.shields.io/badge/Website-0077B5?style=social&logo=linkedin" alt="Website"></a> 
-<a href="https://linkedin.com/in/SepehrMohammady" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn"></a>
+[![Website](https://img.shields.io/badge/Website-SepehrMohammady.ir-blue?style=flat)](https://sepehrmohammady.ir)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-SepehrMohammady-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sepehrmohammady)
 
-I'm an app developer and a passionate PhD candidate at the University of Genoa. My focus lies at the intersection of technology, strategy, and efficient computation, with a keen interest in Machine Learning, Simulation, and Optimization.
+## 🚀 About Me
+- 🎓 PhD Candidate in Machine Learning at the University of Genoa  
+- 💻 Passionate about **minimalist app development** and **efficient AI research**  
+- 📸 Enthusiast of astrophotography & creative nature photography  
 
----
 
-### 🚀 My Pinned Projects
 
-*   🧠 **[NAS-BNN Multi-Dataset Pipeline](https://github.com/SepehrMohammady/Efficient-NAS-BNN-Pipeline)**: Neural Architecture Search for Binary Neural Networks (NAS-BNN) with multi-dataset support.
-*   🚢 **[NetLogoPortLogisticsSimulation](https://github.com/SepehrMohammady/NetLogoPortLogisticsSimulation)**: Agent-based model in NetLogo simulating strategic disruptions in port logistics for offshore wind energy.
-*   😌 **[DreamBuddy](https://github.com/SepehrMohammady/DreamBuddy)**: A Unity-based relaxation simulator prototype designed to help users de-stress in personalized virtual environments.
+## 🔥 Featured Projects
+- [**Efficient-NAS-BNN-Pipeline** ](https://github.com/SepehrMohammady/Efficient-NAS-BNN-Pipeline)  
+  Neural Architecture Search for Binary Neural Networks with multi-dataset support (ImageNet, CIFAR-10, WakeVision).  
 
----
+- **ProjectWell Suite**  
+  Minimalist apps designed for everyday life:  
+  - [FeedWell](https://github.com/SepehrMohammady/FeedWell) – Ad-free RSS reader 
+  - [LedgerWell](https://github.com/SepehrMohammady/LedgerWell) – Multi-currency debt tracker
+  - [WeatherWell](https://github.com/SepehrMohammady/WeatherWell) – Cross-platform weather app
+  - [TuneWell](https://github.com/SepehrMohammady/TuneWell) – Music player for sound engineers
 
-### 🛠️ Skills & Technologies
+- [**DreamBuddy**](https://github.com/SepehrMohammady/DreamBuddy)  
+  Unity-based relaxation simulator for personalized virtual environments.  
 
-*   **Programming Languages:** Python, C#, JavaScript, TypeScript
-*   **Machine Learning:** TinyML, Binarized Neural Networks (BNNs), PyTorch, Neural Architecture Search (NAS), Data Preprocessing, Model Optimization
-*   **Simulation & Modeling:** NetLogo (Agent-Based Modeling), Unity (Game Development & Simulation)
-*   **Optimization:** Z3 SMT Solver, Project Management Algorithms (CPM, PRA)
-*   **Other Interests:** IT Strategy, Information Architecture, Photography, Content Creation
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrMohammady&layout=compact&theme=dark&hide_border=true&card_width=350" alt="Top Langs"/>
+- [**NetLogoPortLogisticsSimulation**](https://github.com/SepehrMohammady/NetLogoPortLogisticsSimulation)  
+  Agent-based modeling for offshore wind logistics.
 
----
 
-### 🌱 I'm Currently Working On...
+## 🌟 Current Focus
+- Optimizing ML models for **TinyML** and edge devices  
+- Exploring advanced **Neural Architecture Search** techniques  
+- Designing **minimalist, user-centric applications**  
+- Building bridges between **academic research** and **real-world impact**
 
-*   Optimizing models for resource-constrained devices (TinyML).
-*   Exploring advanced Neural Architecture Search techniques.
-*   Continuously learning and applying strategic thinking to technological challenges.
 
----
-
-### 📫 How to Reach Me
-
-*   **LinkedIn:** [linkedin.com/in/SepehrMohammady](https://linkedin.com/in/SepehrMohammady)
-*   **Website:** [www.SepehrMohammady.ir](https://www.sepehrmohammady.ir/)
-
----
+## 📊 Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrMohammady&layout=compact&theme=tokyonight)
