@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-SepehrMohammady.ir-blue?style=flat)](https://sepehrmohammady.ir)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-SepehrMohammady-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sepehrmohammady)
 
 ## 🚀 About Me
-- 🎓 PhD Candidate in Machine Learning at the University of Genoa  
+- 🎓 PhD Candidate at the University of Genoa  
 - 💻 Passionate about **minimalist app development** and **efficient AI research**  
 - 📸 Enthusiast of astrophotography & creative nature photography  
 
