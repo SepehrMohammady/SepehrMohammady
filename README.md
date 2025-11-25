@@ -12,7 +12,7 @@
 
 
 ## 🔥 Featured Projects
-- [**Efficient-NAS-BNN-Pipeline** ](https://github.com/SepehrMohammady/Efficient-NAS-BNN-Pipeline)  
+- [**Efficient NAS-BNN Pipeline** ](https://github.com/SepehrMohammady/Efficient-NAS-BNN-Pipeline)  
   Neural Architecture Search for Binary Neural Networks with multi-dataset support (ImageNet, CIFAR-10, WakeVision).  
 
 - **ProjectWell Suite**  
@@ -25,7 +25,7 @@
 - [**DreamBuddy**](https://github.com/SepehrMohammady/DreamBuddy)  
   Unity-based relaxation simulator for personalized virtual environments.  
 
-- [**NetLogoPortLogisticsSimulation**](https://github.com/SepehrMohammady/NetLogoPortLogisticsSimulation)  
+- [**NetLogo Port Logistics Simulation**](https://github.com/SepehrMohammady/NetLogoPortLogisticsSimulation)  
   Agent-based modeling for offshore wind logistics.
 
 
