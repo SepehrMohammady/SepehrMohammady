@@ -34,7 +34,3 @@
 - Exploring advanced **Neural Architecture Search** techniques  
 - Designing **minimalist, user-centric applications**  
 - Building bridges between **academic research** and **real-world impact**
-
-
-## 📊 Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrMohammady&layout=compact&theme=tokyonight)
