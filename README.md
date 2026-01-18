@@ -22,6 +22,7 @@
   - [WeatherWell](https://github.com/SepehrMohammady/WeatherWell) – Cross-platform weather app
   - [TuneWell](https://github.com/SepehrMohammady/TuneWell) – Music player for sound engineers
   - [MatchWell](https://github.com/SepehrMohammady/MatchWell) – An eco-conscious game
+  - [RiseWell](https://github.com/SepehrMohammady/RiseWell) – A puzzle-based alarm app
 
 - [**DreamBuddy**](https://github.com/SepehrMohammady/DreamBuddy)  
   Unity-based relaxation simulator for personalized virtual environments.  
