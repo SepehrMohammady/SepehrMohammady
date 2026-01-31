@@ -23,6 +23,7 @@
   - [TuneWell](https://github.com/SepehrMohammady/TuneWell) – Music player for sound engineers
   - [MatchWell](https://github.com/SepehrMohammady/MatchWell) – An eco-conscious game
   - [RiseWell](https://github.com/SepehrMohammady/RiseWell) – A puzzle-based alarm app
+  - [ShopWell](https://github.com/SepehrMohammady/ShopWell) – A shopping list and shop management app
 
 - [**DreamBuddy**](https://github.com/SepehrMohammady/DreamBuddy)  
   Unity-based relaxation simulator for personalized virtual environments.  
