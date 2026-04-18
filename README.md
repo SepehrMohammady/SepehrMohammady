@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:FF6600&height=200&section=header&text=Sepehr%20Mohammady&fontSize=40&fontColor=ffffff&font=Raleway" alt="banner"/>
 </p>
 
-[![Website](https://img.shields.io/badge/Website-SepehrMohammady.ir-blue?style=flat)](https://sepehrmohammady.ir)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-SepehrMohammady-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sepehrmohammady)
+[![Website](https://img.shields.io/badge/Website-SepehrMohammady.com-blue?style=flat)](https://sepehrmohammady.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-SepehrMohammady-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sepehrmohammady)
 
 ## 🚀 About Me
 - 🎓 PhD Candidate at the University of Genoa  
