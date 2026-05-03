@@ -34,6 +34,6 @@
 
 ## 🌟 Current Focus
 - Optimizing ML models for **TinyML** and edge devices  
-- Exploring advanced **Neural Architecture Search** techniques  
+- Exploring advanced **Neural Network** techniques  
 - Designing **minimalist, user-centric applications**  
 - Building bridges between **academic research** and **real-world impact**
