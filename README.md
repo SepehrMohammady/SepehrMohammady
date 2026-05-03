@@ -12,8 +12,8 @@
 
 
 ## 🔥 Featured Projects
-- [**Efficient NAS-BNN Pipeline** ](https://github.com/SepehrMohammady/Efficient-NAS-BNN-Pipeline)  
-  Neural Architecture Search for Binary Neural Networks with multi-dataset support (ImageNet, CIFAR-10, WakeVision).  
+- [**BNN WakeVision on STM32** ](https://github.com/SepehrMohammady/BNN-WakeVision-STM32)  
+  Two binary deployment pipelines on STM32H7B3I-DK: NAS-BNN + Larq Compute Engine + TFLM, and Samy-4bit binarized + CBin-NN. WakeVision person detection, Cortex-M7.  
 
 - **ProjectWell Suite**  
   Minimalist apps designed for everyday life:  
